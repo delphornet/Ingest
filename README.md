@@ -38,8 +38,8 @@ If you want to add to the roadmap, learn more [here.](https://github.com/delphor
 |**Package** | **What it Does** | **References** |
 |-------------|----------|------------|
 |xyz | unpacks netflow v5 and converts to ASCII|xya|
-|-------|---------------|----------------|
 |Arrays|Build arrays for feeding into Enrich|www|
+|-------|---------------|----------------|
 
 # Contributors #
 
